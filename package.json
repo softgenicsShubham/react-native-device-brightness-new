@@ -1,6 +1,6 @@
 {
   "name": "react-native-device-brightness-new",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Device brightness package for Android and Ios",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
@@ -60,7 +60,8 @@
   },
   "homepage": "https://github.com/softgenicsShubham/react-native-device-brightness-new#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
