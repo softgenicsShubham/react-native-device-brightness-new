@@ -1,6 +1,6 @@
 {
   "name": "react-native-device-brightness-new",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "Device brightness package for Android and Ios",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
